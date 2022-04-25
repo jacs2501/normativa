@@ -3,8 +3,7 @@
 
 
 
-## 1. Diferencia entre PROPÓSITO del análisis de los riesgos y GESTIÓN del
-riesgo
+## 1. Diferencia entre PROPÓSITO del análisis de los riesgos y GESTIÓN del riesgo
 
 El propósito del análisis de los riesgos es el de conocer a fondo nuestra organización, como se compone y su manera de trabajar, para así identificar dichos riesgos. Mientras que la gestión del riesgo sería la preparación que llevamos a cabo para conocerlos, calcular el impacto y así decidir que medidas tomamos para evitar dichos riesgos.
 
@@ -25,8 +24,7 @@ Asegurarse de que las medidas tomadas están siendo efectivas y si hay puntos qu
 Además de estar adaptando las medidas de cumplimiento normativo al contexto actual de la empresa, medidas tomadas en el pasado no tienen por que ajustarse al marcon normativo actual de la empresa.
 
 
-## 5. Menciona 4 de los 8 métodos y herramientas que un compliance officer
-debe dominar.
+## 5. Menciona 4 de los 8 métodos y herramientas que un compliance officer debe dominar.
 
 - 1. Elaboración de cuadros de mando.
 
@@ -44,29 +42,25 @@ Un sistema automatizado sería el bloqueo en una aplicación de finanzas de los 
 
 
 
-## 7. ¿Qué característica debe tener una aplicación para la creación de
-sistemas de análisis de riesgo? Pon un ejemplo
+## 7. ¿Qué característica debe tener una aplicación para la creación de sistemas de análisis de riesgo? Pon un ejemplo
 
 
 Debe permitir establecer gráficos y tablas para poder plasmar la información de manera adecuada para identificar riesgos, impacto de estos riesgos y el alcance.
 
 
 
-## 8. ¿Por qué nunca estará contemplado un impacto cuyo valor sea cero
-dentro de los escenarios de riesgo de la organización?
+## 8. ¿Por qué nunca estará contemplado un impacto cuyo valor sea cero dentro de los escenarios de riesgo de la organización?
 
 Por que si el impacto de un supuesto riesgo fuera cero, no supondría una amenaza para nuestra organización.
 
 
-## 9. ¿Es mejor establecer una escala de identificación de valores de nuestro
-sistema de análisis de riesgo de 5 o de 3? ¿Por qué?
+## 9. ¿Es mejor establecer una escala de identificación de valores de nuestro sistema de análisis de riesgo de 5 o de 3? ¿Por qué?
 
 Será mejor establecer la de cinco niveles de riesgo, permite definir con mayor exactitud el nivel de impacto.
 
 
 
-## 10. Diferencia entre probabilidad e impacto de valores extremos en el
-análisis de riesgos.
+## 10. Diferencia entre probabilidad e impacto de valores extremos en el análisis de riesgos.
 
 La probabilidad es la escala que se utilizar para definir cuanto de posible es que se de el impacto de un riesgo. 
 
