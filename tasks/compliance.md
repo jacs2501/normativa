@@ -13,7 +13,9 @@ La finalidad de realizar un mapa de riesgos por áreas es la de definir la posib
 
 ## 3. Plantea dos sinónimos para definir acciones de monitoreo y vigilancia.
 
-Un sinónimo de monitoreo sería la de verificar la eficacia del trabajo que se está realizando en cuanto cuplimiento normativo en el contexto actual de la empresa. Otro sinónimo sería la de comparar el antiguo estado antes de aplicar medidas de cumplimiento normativo y el estado actual tras implantar un plan de cumplimiento normativo.
+Un sinónimo de monitoreo sería la de verificar la eficacia del trabajo que se está realizando en cuanto cumplimiento normativo en el contexto actual de la empresa.
+
+Otro sinónimo sería la de comparar el antiguo estado antes de aplicar medidas de cumplimiento normativo y el estado actual tras implantar un plan de cumplimiento normativo. Así vemos la evolución y si el plan de cumplimiento se ajusta al estado actual de la empresa.
 
 
 
@@ -21,18 +23,18 @@ Un sinónimo de monitoreo sería la de verificar la eficacia del trabajo que se 
 
 Asegurarse de que las medidas tomadas están siendo efectivas y si hay puntos que se deben mejorar o trabajarse más que otros.
 
-Además de estar adaptando las medidas de cumplimiento normativo al contexto actual de la empresa, medidas tomadas en el pasado no tienen por que ajustarse al marcon normativo actual de la empresa.
+Además de estar adaptando las medidas de cumplimiento normativo al contexto actual de la empresa, medidas tomadas en el pasado no tienen por que ajustarse al marco normativo actual de la empresa.
 
 
 ## 5. Menciona 4 de los 8 métodos y herramientas que un compliance officer debe dominar.
 
-- 1. Elaboración de cuadros de mando.
+- 1 Elaboración de cuadros de mando.
 
-- 2. Habilitar un canal de denuncias por imcumplimiento o fraude.(Deberá ser totalmente confidencial y seguro).
+- 2 Habilitar un canal de denuncias por imcumplimiento o fraude.(Deberá ser totalmente confidencial y seguro).
 
-- 3. Definir unos objetivos claros de compliance.
+- 3 Definir unos objetivos claros de compliance.
 
-- 4. Sistemas de monitorización y vigilancia.
+- 4 Sistemas de monitorización y vigilancia.
 
 
 
@@ -56,26 +58,27 @@ Por que si el impacto de un supuesto riesgo fuera cero, no supondría una amenaz
 
 ## 9. ¿Es mejor establecer una escala de identificación de valores de nuestro sistema de análisis de riesgo de 5 o de 3? ¿Por qué?
 
-Será mejor establecer la de cinco niveles de riesgo, permite definir con mayor exactitud el nivel de impacto.
+Será mejor establecer la de cinco niveles de riesgo, permite definir con mayor exactitud el nivel de impacto. Además evita el definir grado de riesgo medio por miedo a ser excesivo marcar alto o bajo y poner por ello medio.
 
 
 
 ## 10. Diferencia entre probabilidad e impacto de valores extremos en el análisis de riesgos.
 
-La probabilidad es la escala que se utilizar para definir cuanto de posible es que se de el impacto de un riesgo. 
+La probabilidad es la escala que se utilizar para definir cuanto de posible es que se de el impacto de un riesgo. El impacto o alcance sería el cómo afecta a la organización. 
 
 
 ## 11. ¿Cómo se reduce un riesgo alto en una organización?
 
-Para reducir un riesgo deberemos tomar medidas y políticas
+Para reducir un riesgo deberemos tomar medidas y políticas adecuadas.
 
 ## 12. ¿Cuáles son las fases de confección de un mapa de riesgos?
 
 Las fases de confección de un mapa de riesgos son las siguientes:
 
-   La contextualización de los riesgos
-   La identificación de los riesgos.
-   El análisis y la evaluación de todos los riesgos.
+La contextualización de los riesgos
+La identificación de los riesgos.
+El análisis y la evaluación de todos los riesgos.
+
 
 ## 13. Escenarios o categorías que permiten identificar los riesgos de una organización
 
